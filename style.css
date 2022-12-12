@@ -1,0 +1,50 @@
+body {
+    background-color: blue;
+}
+
+.contact h2, p,nav a {
+    color: antiquewhite;
+}
+
+.contact h2 {
+  margin-top: 120px;
+  margin-left: 40px;
+}
+.contact p {
+   display: flex;
+   flex-direction: row;
+   width: 20%;
+   margin-top: 30px;
+   margin-left: 40px;
+}
+.map {
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+
+.nav {
+    margin-top: 30px;
+    margin-left: 40px;
+
+}    
+
+.gmail {
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: large;
+}
+.number {
+    text-decoration: none;
+    font-size: large;
+}
+
+.form label {
+    display: block;
+    padding-top: 20px;
+}
+
+.form button {
+    display: block;
+    margin-top: 20px;
+}
